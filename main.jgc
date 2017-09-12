@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		 <title>gentlegiantJGC</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<link rel="stylesheet" type="text/css" href="/css/list.css">
+	</head>
+	<body>
+		<div class="bulk">
+			<div class="data"></div>
+		</div>
+		
+		<div class="header">
+			<div class="headerleft">
+				<a href="https://twitter.com/gentlegiantJGC" target="_blank"><img src="/mainIcons/twitter_logo.png" alt="twitter" /></a>
+			</div>
+			<div class="headerleft">
+				<a href="https://www.youtube.com/gentlegiantJGC" target="_blank"><img src="/mainIcons/youtube_logo.png" alt="youtube" /></a>
+			</div>
+			<div class="headerleft">
+				<a href="https://www.reddit.com/u/gentlegiantJGC" target="_blank"><img src="/mainIcons/reddit_logo.png" alt="reddit" /></a>
+			</div>
+			<div class="headerright">
+				<a href="https://github.com/gentlegiantJGC/MCEdit-Filters"><img src="/mainIcons/mcedit.png" alt="mcedit" /></a>
+			</div>
+			<div class="headerright">
+				<a href="/blockworks"><img src="/mainIcons/blockworks_logo.png" alt="blockworks" /></a>
+			</div>
+			<div id="logo">
+				<div id="logoimg">
+					<a href="/"><img src="/mainIcons/GGJGC.png" alt="logo" /></a>
+				</div>
+			</div>
+		</div>
+	
+	</body>
+</html>

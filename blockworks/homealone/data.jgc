@@ -1,0 +1,11 @@
+<div class="data">
+	<img src="/blockworks/homealone/cover.png" alt="homealone">
+	<b style="display: block;color: black;font-size: 8vw;text-align: center;">Home Alone</b>
+	<p class="paragraph">Our team was tasked with creating a game based around the first Home Alone film. This involved defending the house from attackers using items found around the house. Some of the items could be crafted into other weapons that would do more damage making it easier to defend the house.</p>
+	<iframe src="https://www.youtube.com/embed/8DmW02XY0Wc?rel=0" frameborder="0" allowfullscreen style="width: 50vw;height: 28vw;display: block;margin: auto"></iframe>
+	<p class="paragraph">My job was to create a selection of 3d models that the other developers could use as tools and weapons within the game. A selection of the models I created can be seen below.</p>
+	<iframe src="https://sketchfab.com/models/d8e29a725f984494bd0a7be47c2b67e5/embed" style="width: 35vw;height: 20vw;display: inline-block;margin-left: 14.5vw;" allowvr="" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" frameborder="0"></iframe>
+	<iframe src="https://sketchfab.com/models/c2f3c8bd45234c33b5ee82505431c5b1/embed" style="width: 35vw;height: 20vw;display: inline-block;" allowvr="" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" frameborder="0"></iframe>
+	<iframe src="https://sketchfab.com/models/bc7894ec43514a068813fbb3d79a5d22/embed" style="width: 35vw;height: 20vw;display: inline-block;margin-left: 14.5vw;" allowvr="" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" frameborder="0"></iframe>
+	<iframe src="https://sketchfab.com/models/c1d4aed1bf2747bf81cb53638ea84794/embed" style="width: 35vw;height: 20vw;display: inline-block;" allowvr="" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" frameborder="0"></iframe>
+</div>
