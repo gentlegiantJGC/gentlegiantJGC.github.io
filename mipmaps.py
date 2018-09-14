@@ -27,4 +27,4 @@ def createMipMap(imgPath):
 	else:
 		print '"{}" is not a valid file'.format(imgPath)
 
-createMipMap(r"C:\Users\james_000\Documents\GitHub\gentlegiantJGC.github.io\blockworks\marketplace\cover.jpg")
+createMipMap(r"C:\Users\james_000\Documents\GitHub\gentlegiantJGC.github.io\gamemodeone\marketplace\cover.jpg")
