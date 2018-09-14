@@ -1,5 +1,5 @@
 <div class="data">
-	<img src="/blockworks/homealone/cover.png" alt="homealone">
+	<img src="/blockworks/homealone/cover.jpg" alt="homealone">
 	<b style="display: block;color: black;font-size: 8vw;text-align: center;">Home Alone</b>
 	<p class="paragraph">Our team was tasked with creating a game based around the first Home Alone film. This involved defending the house from attackers using items found around the house. Some of the items could be crafted into other weapons that would do more damage making it easier to defend the house.</p>
 	<iframe src="https://www.youtube.com/embed/8DmW02XY0Wc?rel=0" frameborder="0" allowfullscreen style="width: 50vw;height: 28vw;display: block;margin: auto"></iframe>
