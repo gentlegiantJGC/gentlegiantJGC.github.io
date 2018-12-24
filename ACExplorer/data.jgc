@@ -2,7 +2,7 @@
     <img src="/ACExplorer/cover.jpg" alt="ACExplorer" srcset="/ACExplorer/cover140.jpg 140w, /ACExplorer/cover210.jpg 210w, /ACExplorer/cover315.jpg 315w, /ACExplorer/cover473.jpg 473w, /ACExplorer/cover710.jpg 710w, /ACExplorer/cover1066.jpg 1066w, /ACExplorer/cover1600.jpg 1600w, /ACExplorer/cover2400.jpg 2400w" />
     <b style="display: block;color: black;font-size: 8vw;text-align: center;">ACExplorer</b>
     <p class="paragraph">
-        <a href="https://github.com/gentlegiantJGC/AC-Explorer/tree/dev">ACExplorer</a>
+        <a href="https://github.com/gentlegiantJGC/AC-Explorer">ACExplorer</a>
          is a project I have been working on since early 2016. The aim is to extract models and textures from the video game Assassin's Creed Unity with the ultimate aim being to extract whole sections of the world with the click of a button. If this is ever achieved I would like to extend this to the other games in the Assassin's Creed franchise but I want to perfect a single game first.</p>
     <p class="paragraph">This project is based on another program called <a href="http://www.tbotr.net/modules.php?mod=Downloads&op=download&sid=4&ssid=1&dlid=40">ARchive_neXt</a> however that program is not open source or easily modifiable and at the time of writing the author has not been active for a while. This program should be easy for the community to add to and improve if someone wishes to.</p>
     <div style="height: 30vw; width: 25vw; display: block; margin-left: auto; margin-right: auto;"><img src="/ACExplorer/editor.jpg" alt="ACExplorer Editor" /></div>
