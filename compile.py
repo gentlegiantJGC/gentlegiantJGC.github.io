@@ -66,7 +66,7 @@ for dirpath, dirnames, filenames in os.walk('.'):
 		maintemp[dataDivNum] = element
 		maintemp = '\n'.join(maintemp)
 		
-		print dirpath
+		print(dirpath)
 		index = open(dirpath+os.sep+'index.html', 'w')
 		index.write(maintemp)
 		index.close()
@@ -82,7 +82,7 @@ for dirpath, dirnames, filenames in os.walk('.'):
 		maintemp[dataDivNum] = data
 		maintemp = '\n'.join(maintemp)
 		
-		print dirpath
+		print(dirpath)
 		index = open(dirpath+os.sep+'index.html', 'w')
 		index.write(maintemp)
 		index.close()
