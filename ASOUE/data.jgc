@@ -1,0 +1,29 @@
+<div class="data">
+    <img src="/ASOUE/cover.jpg" alt="ASOUE" srcset="/ASOUE/cover118.jpg 118w, /ASOUE/cover177.jpg 177w, /ASOUE/cover266.jpg 266w, /ASOUE/cover400.jpg 400w, /ASOUE/cover600.jpg 600w, /ASOUE/cover900.jpg 900w, /ASOUE/cover1350.jpg 1350w, /ASOUE/cover2026.jpg 2026w, /ASOUE/cover3040.jpg 3040w" />
+    <b style="display: block;color: black;font-size: 8vw;text-align: center;">ASOUE Spyglass</b>
+    <p class="paragraph">
+        A Series of Unfortunate Events is a series of books that was adapted into a Netflix TV show. In the Netflix show there is a device known as a spyglass which is a telescope with a number of dials and intricate detailing.
+    </p>
+    <p class="paragraph">
+        I wanted to have a physical copy that was as screen accurate as possible but nothing official existed so I decided to design it myself in Solidworks with the intention to 3D print it.
+    </p>
+    <p class="paragraph">
+        First I had to go through all the episodes of the show to get as many references photos from as many angles as I could. Then I had to work out which symbols were used on each ring and in which order so that it would match the real prop.
+    </p>
+    <p class="paragraph">
+        The design process was also somewhat intertwined with the prototyping stage to ensure that the parts fit together with the required resistance based on the need.
+    </p>
+    <p class="paragraph">
+        Once finished the design consisted of four large rotating rings, three telescopic sections and a cap that opens. The spyglass is made of two halves which can screw together to make the whole spyglass. Below is a cross section view of the finished model.
+    </p>
+    <div style="width: 70vw; display: block; margin-left: auto; margin-right: auto;"><img src="/ASOUE/cross_section.jpg" alt="cross section"/></div>
+    <p class="paragraph">
+        When printed, painted, weathered, veneered and assembled it looks like the photos at the top of this page. When the first one was finished and I was satisfied with it I manufactured a number more and sold them online to those who also wanted a physical copy of the spyglass.
+    </p>
+    <p class="paragraph">
+        I also decided to make a couple of 3D animations in Blender showing off what moves on the spyglass and how the parts go together to assemble it. These can be seen below.
+    </p>
+    <iframe src="https://sketchfab.com/models/5cf3c515d66244469c41cf9eb4dcae78/embed" style="width: 70vw;height: 40vw;display: inline-block;margin-left: 14.5vw;" allowvr="" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" frameborder="0"></iframe>
+    <iframe src="https://sketchfab.com/models/185d379b8a7848b7ba2333440abb0364/embed" style="width: 70vw;height: 40vw;display: inline-block;margin-left: 14.5vw;" allowvr="" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" frameborder="0"></iframe>
+
+</div>

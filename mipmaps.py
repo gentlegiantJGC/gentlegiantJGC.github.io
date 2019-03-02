@@ -27,4 +27,4 @@ def create_mip_map(img_path):
 	else:
 		print('"{}" is not a valid file'.format(img_path))
 
-create_mip_map(r"C:\Users\james_000\Documents\GitHub\gentlegiantJGC.github.io\GCode-Sequencer\cover.jpg")
+create_mip_map(r"C:\Users\james_000\Documents\GitHub\gentlegiantJGC.github.io\ASOUE\cover.jpg")

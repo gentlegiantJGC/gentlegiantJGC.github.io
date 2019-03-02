@@ -1,4 +1,5 @@
 ACExplorer;ACExplorer;A file explorer and exporter I have been working on for the Forge file format used in Assassin's Creed games and some others. Written in Python.
+ASOUE;A Series of Unfortunate Events: Spyglass;Having loved the Netflix show (and the books when I was younger) I decided to replicate the spyglass from the Netflix show as accurately as possible in a way that could also be 3D printed.
 GCode-Sequencer;GCode Sequencer;A Python script to densely fit parts for printing on a FDM 3D printer. Takes pre-sliced GCode models and densely packs them while leaving space for the print head. (Designed for an Ender 3 style printer)
 gamemodeone/marketplace;Gamemode One Minecraft Marketplace;A collection of projects that can be found on the Minecraft Marketplace that I did a little work on (mostly just packaging)
 blockworks/marketplace;Blockworks Minecraft Marketplace;A collection of projects that can be found on the Minecraft Marketplace that I did a little work on (mostly just packaging)
